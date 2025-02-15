@@ -1,0 +1,6 @@
+gradio
+requests
+pymupdf
+easyocr
+torch
+transformers
